@@ -1,0 +1,622 @@
+2023-03-27 09:12:10.4414 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 09:12:10.5944 INFO - Hosting environment: Development - 
+
+2023-03-27 09:12:10.6026 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 09:12:13.6633 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:12:13.6788 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:12:13.6788 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:12:13.6788 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:12:13.6788 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:12:13.6972 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:12:15.3052 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 09:16:51.7545 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 09:16:51.7985 INFO - Hosting environment: Development - 
+
+2023-03-27 09:16:51.8201 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 09:16:53.6885 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:16:53.6986 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:16:53.6986 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:16:53.6986 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:16:53.7110 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:16:53.7110 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:16:54.4985 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 09:33:32.8524 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 09:33:32.8852 INFO - Hosting environment: Development - 
+
+2023-03-27 09:33:32.8852 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 09:33:34.4520 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:33:34.4603 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:33:34.4603 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:33:34.4603 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:33:34.4754 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:33:34.4754 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 09:33:35.1964 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 11:20:14.7329 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 11:20:14.7958 INFO - Hosting environment: Development - 
+
+2023-03-27 11:20:14.8101 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 11:20:17.0770 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 11:20:17.0910 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 11:20:17.0910 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 11:20:17.1043 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 11:20:17.1043 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 11:20:17.1043 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:07.0896 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:08:07.1230 INFO - Hosting environment: Development - 
+
+2023-03-27 12:08:07.1334 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:08:08.6202 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:08.6342 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:08.6342 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:08.6522 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:08.6522 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:08.6646 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:09.5250 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:08:45.3701 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:08:45.4032 INFO - Hosting environment: Development - 
+
+2023-03-27 12:08:45.4032 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:08:47.0480 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:47.0685 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:47.0685 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:47.0685 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:47.0858 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:47.0858 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:08:47.9605 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:09:27.9429 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:09:27.9776 INFO - Hosting environment: Development - 
+
+2023-03-27 12:09:27.9776 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:09:29.4598 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:09:29.4598 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:09:29.4598 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:09:29.4598 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:09:29.4787 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:09:29.4787 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:10:25.2535 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:10:25.3010 INFO - Hosting environment: Development - 
+
+2023-03-27 12:10:25.3075 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:10:26.9477 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:10:26.9600 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:10:26.9600 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:10:26.9600 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:10:26.9600 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:10:26.9600 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:10:27.6978 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:11:26.3750 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:11:26.4169 INFO - Hosting environment: Development - 
+
+2023-03-27 12:11:26.4169 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:11:28.1032 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:11:28.1032 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:11:28.1168 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:11:28.1168 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:11:28.1168 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:11:28.1168 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:11:28.8774 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:12:46.1098 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:12:46.1546 INFO - Hosting environment: Development - 
+
+2023-03-27 12:12:46.1690 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:12:47.7852 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:12:47.7937 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:12:47.7937 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:12:47.8058 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:12:47.8058 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:12:47.8058 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:12:48.5362 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:13:43.2395 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:13:43.3656 INFO - Hosting environment: Development - 
+
+2023-03-27 12:13:43.3656 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:13:44.5808 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:13:44.5926 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:13:44.5926 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:13:44.6061 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:13:44.6061 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:13:44.6155 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:13:45.4236 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:14:30.8173 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:14:30.8511 INFO - Hosting environment: Development - 
+
+2023-03-27 12:14:30.8511 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:14:32.0326 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:14:32.0402 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:14:32.0402 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:14:32.0402 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:14:32.0402 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:14:32.0402 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:14:32.7316 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:30:27.7529 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:30:27.7833 INFO - Hosting environment: Development - 
+
+2023-03-27 12:30:27.7925 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:30:29.1818 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:30:29.1818 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:30:29.2010 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:30:29.2010 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:30:29.2010 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:30:29.2120 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:30:29.9525 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:31:48.1873 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:31:48.2216 INFO - Hosting environment: Development - 
+
+2023-03-27 12:31:48.2310 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:31:49.7940 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:31:49.7940 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:31:49.8071 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:31:49.8071 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:31:49.8071 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:31:49.8207 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:31:50.6148 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:32:38.8792 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:32:38.9161 INFO - Hosting environment: Development - 
+
+2023-03-27 12:32:38.9161 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:32:40.7633 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:32:40.7714 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:32:40.7714 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:32:40.7714 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:32:40.7714 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:32:40.7714 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:32:41.4689 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:44:02.6785 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:44:02.7383 INFO - Hosting environment: Development - 
+
+2023-03-27 12:44:02.7502 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:44:07.1568 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:44:07.1887 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:44:07.2180 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:44:07.2248 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:44:07.2248 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:44:07.2493 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:44:08.8309 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:47:06.4490 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:47:06.4904 INFO - Hosting environment: Development - 
+
+2023-03-27 12:47:06.4972 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:47:08.5937 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:47:08.6015 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:47:08.6015 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:47:08.6015 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:47:08.6015 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:47:08.6157 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:47:09.3351 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:48:18.9297 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:48:19.0290 INFO - Hosting environment: Development - 
+
+2023-03-27 12:48:19.0390 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:48:20.6370 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:48:20.6502 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:48:20.6502 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:48:20.6502 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:48:20.6502 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:48:20.6643 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:12.6403 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:49:12.6909 INFO - Hosting environment: Development - 
+
+2023-03-27 12:49:12.6983 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:49:14.5719 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:14.5719 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:14.5719 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:14.5916 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:14.5916 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:14.5916 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:50.5862 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:49:50.6403 INFO - Hosting environment: Development - 
+
+2023-03-27 12:49:50.6491 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:49:52.8869 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:52.8980 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:52.8980 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:52.8980 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:52.9169 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:52.9169 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:49:53.9422 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:52:08.8484 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:52:08.8913 INFO - Hosting environment: Development - 
+
+2023-03-27 12:52:08.9030 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:52:10.4552 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:52:10.4642 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:52:10.4642 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:52:10.4642 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:52:10.4768 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:52:10.4768 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:06.5219 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:53:06.5540 INFO - Hosting environment: Development - 
+
+2023-03-27 12:53:06.5540 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:53:08.1085 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:08.1175 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:08.1175 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:08.1175 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:08.1175 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:08.1339 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:08.8846 ERROR - An unhandled exception has occurred while executing the request. -    at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at DevIO.Api.Configuration.JWTConfig.Invoke(HttpContext context, IPermissoesUsuarioService permissoesusuarioService) in E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\Configuration\JWTConfig.cs:line 57
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2023-03-27 12:53:54.9117 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:53:54.9491 INFO - Hosting environment: Development - 
+
+2023-03-27 12:53:54.9491 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:53:56.1613 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:56.1684 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:56.1684 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:56.1802 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:56.1802 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:53:56.1802 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:56:10.8054 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 12:56:10.8598 INFO - Hosting environment: Development - 
+
+2023-03-27 12:56:10.8748 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 12:56:13.2011 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:56:13.2133 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:56:13.2133 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:56:13.2133 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:56:13.2256 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 12:56:13.2256 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:52:27.2326 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 20:52:27.5536 INFO - Hosting environment: Development - 
+
+2023-03-27 20:52:27.5536 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 20:52:29.1250 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:52:29.1347 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:52:29.1347 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:52:29.1536 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:52:29.1536 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:52:29.1536 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:55:16.4958 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 20:55:16.5503 INFO - Hosting environment: Development - 
+
+2023-03-27 20:55:16.5584 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 20:55:18.5143 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:55:18.5257 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:55:18.5257 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:55:18.5429 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:55:18.5429 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 20:55:18.5429 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 21:00:17.2512 INFO - Application started. Press Ctrl+C to shut down. - 
+
+2023-03-27 21:00:17.2873 INFO - Hosting environment: Development - 
+
+2023-03-27 21:00:17.2873 INFO - Content root path: E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api - 
+
+2023-03-27 21:00:19.4140 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 21:00:19.4140 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'Garota'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 21:00:19.4301 WARN - No type was specified for the decimal property 'total' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 21:00:19.4301 WARN - No type was specified for the decimal property 'valor_aluguel' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 21:00:19.4301 WARN - No type was specified for the decimal property 'valor_destaque' on entity type 'GarotaCategoria'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+
+2023-03-27 21:00:19.4301 WARN - No type was specified for the decimal property 'Valor' on entity type 'Produto'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType()', specify precision and scale using 'HasPrecision()' or configure a value converter using 'HasConversion()'. - 
+

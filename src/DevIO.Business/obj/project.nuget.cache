@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PACVv+YqMKdOeIXqCjca918E1wD00Gb5otoNIp2XLOVw73JVEPPEtqh06mF86IpCz5QDYTsBnkIxSkscW1lKxA==",
+  "success": true,
+  "projectFilePath": "E:\\&&&&sistemas\\PegadaHot 2.0\\Agencia\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nandousrj\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

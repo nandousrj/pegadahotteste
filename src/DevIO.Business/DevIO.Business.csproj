@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interfaces\IVisualizacaoRepository.cs~RF2c551f.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SecureApp">
+      <HintPath>..\SecureApp.dll</HintPath>
+    </Reference>
+    <Reference Include="Security">
+      <HintPath>..\Security.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

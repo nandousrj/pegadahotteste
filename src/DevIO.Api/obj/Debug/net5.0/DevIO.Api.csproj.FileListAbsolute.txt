@@ -1,0 +1,252 @@
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\appsettings.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.StaticWebAssets.xml
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.exe
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.deps.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.runtimeconfig.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.runtimeconfig.dev.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\ref\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\FluentValidation.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Data.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Business.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\bin\Debug\net5.0\DevIO.Data.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.AssemblyReference.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.AssemblyInfoInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.AssemblyInfo.cs
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.CoreCompileInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\DevIO.Api.StaticWebAssets.Manifest.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\DevIO.Api.StaticWebAssets.xml
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\scopedcss\bundle\DevIO.Api.styles.css
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.RazorTargetAssemblyInfo.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\ref\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.genruntimeconfig.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\appsettings.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.StaticWebAssets.xml
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.exe
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.deps.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.runtimeconfig.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.runtimeconfig.dev.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\ref\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\FluentValidation.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Data.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Business.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\DevIO.Data.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.AssemblyReference.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.AssemblyInfoInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.AssemblyInfo.cs
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.CoreCompileInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\DevIO.Api.StaticWebAssets.Manifest.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\DevIO.Api.StaticWebAssets.xml
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\scopedcss\bundle\DevIO.Api.styles.css
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.RazorTargetAssemblyInfo.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.CopyComplete
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\ref\DevIO.Api.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.genruntimeconfig.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\nlog.config
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\NLog.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Api\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.AssemblyReference.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.AssemblyInfoInputs.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.AssemblyInfo.cs
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.CoreCompileInputs.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\nlog.config
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\appsettings.json
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.StaticWebAssets.xml
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.exe
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.deps.json
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.runtimeconfig.json
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.runtimeconfig.dev.json
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\ref\DevIO.Api.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Api.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\FileSizeFromBase64.NET.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\FluentValidation.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\NLog.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Business.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Data.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\Security.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Business.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\bin\Debug\net5.0\DevIO.Data.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\DevIO.Api.StaticWebAssets.Manifest.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\staticwebassets\DevIO.Api.StaticWebAssets.xml
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\scopedcss\bundle\DevIO.Api.styles.css
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.RazorTargetAssemblyInfo.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.csproj.CopyComplete
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\ref\DevIO.Api.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Api\obj\Debug\net5.0\DevIO.Api.genruntimeconfig.cache

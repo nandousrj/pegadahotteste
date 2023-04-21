@@ -1,0 +1,50 @@
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
+E:\Estudando_2021\02 - Dominando o ASP.NET MVC Core\MeuProjeto\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+E:\Estudando_2021\03 - REST com ASP.NET Core WebAPI\Meu Projeto\MinhaAPICompleta - Antes da aula 51 Testando NLog e\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\bin\Debug\net5.0\SecureApp.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\bin\Debug\net5.0\Security.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CopyComplete
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+E:\&&&&sistemas\PegadaHot 2.0\Agencia\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb

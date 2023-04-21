@@ -1,0 +1,48 @@
+﻿@using WebApp.Extensions
+@model IEnumerable<WebApp.Models.GarotaCategoriaViewModel>
+
+
+@{
+    ViewData["Title"] = "Todos as pegadoras";
+}
+
+<section>
+    <div>
+        @*<div style="background-image: url(imagens/banners/Template.jpg); height: 100%; background-position: center; background-repeat: no-repeat; background-size: cover">*@
+        <div class="container" style=" padding-top: 20px">
+        </div>
+            <div style="text-align: center;">
+                <img src="~/imagens/ImgSite/LogoPegadaHot.jpg" />
+                @*</div>*@
+            </div>
+            <div class="container" style=" padding-top: 20px">
+                <div class="row">
+                    @{
+                        foreach (var pegadora in Model)
+                        {
+                            <div class="col-md-3">
+                                <div href="#" class="div-fotos" margin-bottom: 30px>
+                                    <a asp-controller="Catalogo" asp-action="Pegadora" asp-route-id="@pegadora.id_garota_categoria" class="img-wrap" target="_blank">
+                                        <img src="~/@pegadora.imagem_01" style=" max-width:253px; max-height: 375px; width: 500px; height: 500px;" alt="@pegadora.apelido">
+                                    </a>
+                                    @*<figcaption class="info-wrap">
+                                        <a asp-controller="Catalogo" asp-action="Pegadora" asp-route-id="@pegadora.id_garota_categoria" class="title">
+                                            <b> @pegadora.apelido</b>
+                                        </a>
+
+                                        <small class="card-text">
+                                            @this.MensagemEstoque(produto.QuantidadeEstoque)<br /><br />
+                                            @pegadora.Descricao
+                                        </small>
+                                    </figcaption>*@
+                                    <div class="mt-1 bg-danger" style="text-align: center;">
+                                        <h5>@pegadora.apelido</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+</section>

@@ -1,0 +1,79 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #000000;
+	color: #ffffff;
+	font-family: verdana;
+	font-size: 13px;
+}
+
+.div-principal{
+	width: 800px;
+	margin: 0 auto 81px;	
+}
+
+.div-principal p{
+	margin-top: 20px;
+	text-align: justify;
+}
+
+.links-entrar-ou-sair{
+	width: 350px;
+	height: 1px;
+	margin: 10px auto;
+}
+
+.links-entrar-ou-sair a{
+	float: left;
+	display: block;
+	width: 160px;
+	margin-left: 30px;
+	padding: 10px 0;
+	color: #ffffff;
+	background-color: #ab0909;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+}
+
+.links-entrar-ou-sair a:first-child{
+	margin-left: 0;
+}
+
+.links-entrar-ou-sair a:hover{
+	background-color: #ffcc00;
+	color: #000000;
+}
+
+.links-entrar-ou-sair a span{
+	text-transform: uppercase;
+}
+
+.div-rodape{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 1px 0;
+	text-align: center;
+	background-color: #ab0909;
+}
+
+.div-logoPrincipal img {
+    width: 800px;
+    height: 96px;
+}
+
+.div-Curtir img {
+    width: 420px;
+    height: 30px;
+}
+
+
+div.menu ul li a, div.menu ul li a:visited{
+    display: block;
+    margin: 4px 20px;
+}
